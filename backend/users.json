@@ -1,42 +1,50 @@
 [
   {
     "name": "Aravind",
+    "email": "aravind@gmail.com",
     "password": "123",
     "balance": 4250.0
   },
   {
     "name": "gojo",
+    "email": "gojo@gmail.com",
     "password": "123",
     "balance": 5200.0
   },
   {
     "name": "rosyy",
+    "email": "rosyy@gmail.com",
     "password": "123",
     "balance": 4100.0
   },
   {
     "name": "Vivek",
+    "email": "vivekaravind71@gmail.com",
     "password": "123",
     "balance": 4131.0
   },
   {
     "name": "advika",
+    "email": "advika@gmail.com",
     "password": "123",
-    "balance": 2000
+    "balance": 2000.0
   },
   {
     "name": "siva",
+    "email": "siva@gmail.com",
     "password": "123",
     "balance": 3600.0
   },
   {
     "name": "mani",
+    "email": "mani@gmail.com",
     "password": "123",
-    "balance": 4200
+    "balance": 4200.0
   },
   {
     "name": "vetri",
+    "email": "vetri@gmail.com",
     "password": "123",
-    "balance": 3000
+    "balance": 3000.0
   }
 ]
